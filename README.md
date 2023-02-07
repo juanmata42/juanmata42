@@ -5,9 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=juanmata42" alt="juanmata42" /></a> </p>
 
-- 🔭 I’m currently working on [bootcamp class notes web](https://github.com/juanmata42/web_apuntes)
-
-- 🌱 I’m currently learning **React, Express.js & MongoDB**
+- 🔭 I’m currently working on [Visionapp]([https://github.com/juanmata42/web_apuntes](https://vision.app/))
 
 - 👨‍💻 All of my projects are available at [https://github.com/juanmata42?tab=repositories](https://github.com/juanmata42?tab=repositories)
 
