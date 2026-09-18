@@ -31,18 +31,3 @@ I'm still hands-on with product, architecture, data and code. I want to build a 
 
 **Also worked with:** React Native, Redux, MongoDB, Jest, Rust, C#, Unity, Android
 
-### GitHub stats
-
-<!-- If these cards break, the public instance is rate-limited. Self-host it or use its GitHub Actions workflow: https://github.com/anuraghazra/github-readme-stats -->
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=juanmata42&show_icons=true&hide_border=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=juanmata42&layout=compact&hide_border=true" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/juanmata42" alt="Juanma's GitHub contributions" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=juanmata42&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
