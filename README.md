@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Juan Manuel Taboada Álvarez</h1>
-<h3 align="center">Co-founder, CEO & CTO at <a href="https://zoo-metrics.com">Zoometrics</a></h3>
+<h3 align="center">Co-founder of <a href="https://zoo-metrics.com">Zoometrics</a></h3>
 
 <p align="center">
   <a href="https://zoo-metrics.com"><img src="https://img.shields.io/badge/Zoometrics-zoo--metrics.com-2E7D32?style=flat" alt="Zoometrics" /></a>
